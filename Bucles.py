@@ -48,11 +48,15 @@ for i in range (2,21):
 
     print(f"Esta es la Impresion {i}")
 
-    print ("Hola")
+    print ("Chau a Todos")
 
     print ("Hola")
     
     print ("Hola Mundo")
 
-    
+    print("Pude hace que funcionara la Sincronizacion con Git HUB")
+
+
+
+
 
